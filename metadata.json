@@ -1,0 +1,6 @@
+{
+  "name": "Autosave Notepad",
+  "description": "A minimalist, real-time autosaving notepad with Supabase database integration and structural local state fallback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
